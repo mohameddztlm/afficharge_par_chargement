@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F84A -DL -O11111114 -fo8 -N"C:\Users\mohamed\Desktop\ap\mikroc\affichage_par_charge.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"C:\Users\mohamed\Desktop\ap\mikroc\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -IP"C:\Users\mohamed\Desktop\ap\mikroc\" "affichage_par_charge.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+hint: 0	1139	Available RAM: 52 [bytes], Available ROM: 1024 [bytes]	 
+diagnostics: 0	122	Compilation Started	affichage_par_charge.c
+diagnostics: 33	123	Compiled Successfully	affichage_par_charge.c
+diagnostics: 0	127	All files Compiled in 31 ms	 
+hint: 0	1144	Used RAM (bytes): 22 (42%)  Free RAM (bytes): 30 (58%)	Used RAM (bytes): 22 (42%)  Free RAM (bytes): 30 (58%)
+hint: 0	1144	Used ROM (program words): 360 (35%)  Free ROM (program words): 664 (65%)	Used ROM (program words): 360 (35%)  Free ROM (program words): 664 (65%)
+diagnostics: 0	125	Project Linked Successfully	affichage_par_charge.mcppi
+diagnostics: 0	128	Linked in 16 ms	 
+diagnostics: 0	129	Project 'affichage_par_charge.mcppi' completed: 63 ms	 
+diagnostics: 0	103	Finished successfully: 11 Ã«‰›ÌÌÂ 2019, 20:48:10	affichage_par_charge.mcppi
